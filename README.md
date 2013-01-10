@@ -8,9 +8,10 @@ JBehave example application, using the following :
 - JUnit 4.8.2
 - JBehave Eclipse plugin
 - JBehave Annotations
-	@AsParameterConverter
-	@When
-	@Given
+ - @AsParameterConverter
+ - @When
+ - @Given
+ - @Then
 - Parametrised Scenarios
 - Parameter Injection
 - Outcomes Table
