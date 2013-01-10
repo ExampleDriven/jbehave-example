@@ -16,5 +16,5 @@ JBehave example application, using the following :
 - Outcomes Table
 - Tabular parameters
  
- to run the tests run mvn install or from Eclipse run MyStories as a JUnit test 
+ to run the tests run mvn install or from Eclipse run MyStories.java as a JUnit test 
 
